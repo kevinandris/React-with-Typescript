@@ -1,3 +1,7 @@
+# To create a react app with typescript on terminal
+
+npx create-react-app --template typescript <name of the project>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

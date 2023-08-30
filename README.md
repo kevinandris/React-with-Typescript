@@ -7,3 +7,6 @@
 
 #   To run the project:
     on Visual Studio code terminal, type npm start.
+
+#   Things to improve:
+    1) I need to practice a lot with typescript. It is exciting!!!
